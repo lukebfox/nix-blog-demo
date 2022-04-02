@@ -3,7 +3,7 @@
   
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-unstable";
-    nixops-plugged.url  = "github:lukebfox/nixops-with-plugged";
+    nixops-plugged.url  = "github:lukebfox/nixops-plugged";
     utils.url   = "github:numtide/flake-utils";
   };
   
